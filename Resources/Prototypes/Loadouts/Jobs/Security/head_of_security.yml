@@ -72,6 +72,15 @@
   equipment:
     head: ClothingHeadHatBeretHoS
 
+- type: loadout
+  id: HeadofSecurityCap
+  equipment: HeadofSecurityCap
+
+- type: startingGear
+  id: HeadofSecurityCap
+  equipment:
+    head: ClothingHeadHatCapHoS
+    
 # Neck
 - type: loadout
   id: HeadofSecurityCloak
@@ -91,6 +100,15 @@
   equipment:
     neck: ClothingNeckMantleHOS
 
+- type: loadout
+  id: HeadofSecurityMantleShoulder
+  equipment: HeadofSecurityMantleShoulder
+
+- type: startingGear
+  id: HeadofSecurityMantleShoulder
+  equipment:
+    neck: ClothingNeckMantleHOSShoulder
+    
 # OuterClothing
 - type: loadout
   id: HeadofSecurityCoat
