@@ -35,7 +35,8 @@
   - Glasses
   - GlassesJamjar
   - GlassesJensen
-
+  - GlassesBinoclard
+  - GlassesColored
 - type: loadoutGroup
   id: Survival
   name: loadout-group-survival-basic
